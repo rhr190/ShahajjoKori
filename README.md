@@ -1,1 +1,2 @@
-The project is an online platform of event creating and fundraising. Project of 3rd year and 2nd semester at AUST.
+#ShahajjoKori
+An ASP.NET website that was developed for creating online posts of charity events and fundraising initiatives for the helpless and distressed people in need.
